@@ -1,0 +1,38 @@
+{
+  "name": "Bahasa Arab",
+  "short_name": "Bahasa Arab",
+  "start_url": "https://bahasaarabdaring.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#25a186",
+  "description": "Belajar bahasa Arab online",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-LJalc3wI87o/XJ_6KbaEXlI/AAAAAAAACd8/KvYXEs1bR-ooKv8TTwFiReF9jD5ovKWbgCLcBGAs/s1600/favicon%2Bat-ta%2527allum%2Bversi%2B2.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-LJalc3wI87o/XJ_6KbaEXlI/AAAAAAAACd8/KvYXEs1bR-ooKv8TTwFiReF9jD5ovKWbgCLcBGAs/s1600/favicon%2Bat-ta%2527allum%2Bversi%2B2.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-LJalc3wI87o/XJ_6KbaEXlI/AAAAAAAACd8/KvYXEs1bR-ooKv8TTwFiReF9jD5ovKWbgCLcBGAs/s1600/favicon%2Bat-ta%2527allum%2Bversi%2B2.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-LJalc3wI87o/XJ_6KbaEXlI/AAAAAAAACd8/KvYXEs1bR-ooKv8TTwFiReF9jD5ovKWbgCLcBGAs/s1600/favicon%2Bat-ta%2527allum%2Bversi%2B2.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-LJalc3wI87o/XJ_6KbaEXlI/AAAAAAAACd8/KvYXEs1bR-ooKv8TTwFiReF9jD5ovKWbgCLcBGAs/s1600/favicon%2Bat-ta%2527allum%2Bversi%2B2.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-LJalc3wI87o/XJ_6KbaEXlI/AAAAAAAACd8/KvYXEs1bR-ooKv8TTwFiReF9jD5ovKWbgCLcBGAs/s1600/favicon%2Bat-ta%2527allum%2Bversi%2B2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-LJalc3wI87o/XJ_6KbaEXlI/AAAAAAAACd8/KvYXEs1bR-ooKv8TTwFiReF9jD5ovKWbgCLcBGAs/s1600/favicon%2Bat-ta%2527allum%2Bversi%2B2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
